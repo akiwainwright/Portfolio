@@ -1984,7 +1984,7 @@ body.dark .accordion .accordion-header > div[aria-expanded="true"]::after {
   padding: 9px 8px;
   color: #3e4041;
   font-weight: 600;
-  font-size: 12px;
+  font-size: 4px;
   border: 0;
   width: 100%;
 }
@@ -1996,12 +1996,12 @@ body.dark .nav-tabs .nav-link {
 
 html[dir='rtl'] .nav-tabs .nav-link {
   font-weight: 700;
-  font-size: 14px;
+  font-size: 6px;
 }
 
 @media (min-width: 576px) {
   .nav-tabs .nav-link {
-    font-size: 14px;
+    font-size: 6px;
     padding: 14px 8px;
   }
 }
@@ -2014,7 +2014,7 @@ html[dir='rtl'] .nav-tabs .nav-link {
 
 @media (min-width: 1200px) {
   .nav-tabs .nav-link {
-    padding: 20px 30px;
+    padding: 20px 40px;
   }
 }
 
