@@ -37,6 +37,12 @@ ol, ul {
 	list-style: none;
 }
 
+.container{
+    position: relative;
+    width: 400px;
+    height: 400px;
+}
+
 blockquote, q {
 	quotes: none;
 }
